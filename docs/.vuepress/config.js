@@ -1,6 +1,6 @@
 module.exports = {
   title:"xuks",
-  description: 'Welcome to my personal website',
+  description: 'If you want to make your dream come true, the first thing you have to do is to wake up',
   dest: './docs/dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -16,6 +16,7 @@ module.exports = {
       { text: 'Contact', 
         icon: 'reco-message',
         items: [
+          { text: '掘金', link: 'https://juejin.im/user/2189882894324135', icon: 'reco-juejin' },
           { text: 'GitHub', link: 'https://github.com/xukaishan', icon: 'reco-github' },
           { text: '简书', link: 'https://www.jianshu.com/u/a6ccd6700041', icon: 'reco-jianshu' },
           { text: 'CSDN', link: 'https://blog.csdn.net/qq_43594899', icon: 'reco-csdn' },
