@@ -1,6 +1,6 @@
 module.exports = {
   title:"xuks",
-  description: 'If you want to make your dream come true, the first thing you have to do is to wake up',
+  description: 'better late than never',
   dest: './docs/dist',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
